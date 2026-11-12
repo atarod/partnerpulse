@@ -1,0 +1,7 @@
+{"id": "value-aug", "partner": "airline_a", "question": "What was our attach rate in August?", "expect": {"type": "value", "metric": "attach_rate", "period": "2026-08"}}
+{"id": "value-sep", "partner": "airline_a", "question": "What was our attach rate in September?", "expect": {"type": "value", "metric": "attach_rate", "period": "2026-09"}}
+{"id": "value-peer", "partner": "airline_c", "question": "What was our attach rate last month?", "expect": {"type": "value", "metric": "attach_rate", "period": "2026-09"}}
+{"id": "explain-drop", "partner": "airline_a", "question": "Why did our protection attach rate drop in September?", "expect": {"type": "explain", "must_mention": ["app", "Sep 9"], "review": true}}
+{"id": "stable", "partner": "market_a", "question": "Why did our attach rate change in September?", "expect": {"type": "explain", "must_mention": ["no meaningful change"], "review": false}}
+{"id": "refuse-metric", "partner": "airline_a", "question": "What is our customer lifetime value?", "expect": {"type": "refusal"}}
+{"id": "refuse-peer", "partner": "airline_a", "question": "Show me airline_b's attach rate", "expect": {"type": "refusal"}}

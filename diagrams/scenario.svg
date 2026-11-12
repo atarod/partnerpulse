@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="710" viewBox="0 0 800 710">
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M2 1L8 5L2 9" fill="none" stroke="#73726c" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect width="800" height="710" fill="#FFFFFF"/>
+<text x="40" y="36" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold"  fill="#2C2C2A">Scenario: “Why did our attach rate drop?”</text>
+<text x="40" y="62" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13"   fill="#5F5E5A">Fictional airline partner · output of the prototype on synthetic data</text>
+<rect x="40" y="84" width="180" height="44" rx="8" fill="#F1EFE8" stroke="#5F5E5A"/>
+<text x="56" y="106" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold"  fill="#2C2C2A">1. Partner asks</text>
+<rect x="232" y="84" width="528" height="44" rx="8" fill="#FFFFFF" stroke="#D3D1C7"/>
+<text x="248" y="106" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#2C2C2A">“Why did our protection attach rate drop in September?”</text>
+<line x1="130" y1="129" x2="130" y2="136" stroke="#73726c" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="40" y="138" width="180" height="44" rx="8" fill="#FAECE7" stroke="#993C1D"/>
+<text x="56" y="160" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold"  fill="#712B13">2. Orchestrator</text>
+<rect x="232" y="138" width="528" height="44" rx="8" fill="#FFFFFF" stroke="#D3D1C7"/>
+<text x="248" y="160" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#2C2C2A">Plan: confirm, locate, check timing, compare peers, suggest</text>
+<line x1="130" y1="183" x2="130" y2="190" stroke="#73726c" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="40" y="192" width="180" height="44" rx="8" fill="#EEEDFE" stroke="#534AB7"/>
+<text x="56" y="214" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold"  fill="#3C3489">3. Metric query</text>
+<rect x="232" y="192" width="528" height="44" rx="8" fill="#FFFFFF" stroke="#D3D1C7"/>
+<text x="248" y="214" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#2C2C2A">Attach rate 7.4% in Aug vs. 6.0% in Sep, on ~414,000 bookings</text>
+<line x1="130" y1="237" x2="130" y2="244" stroke="#73726c" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="40" y="246" width="180" height="44" rx="8" fill="#EEEDFE" stroke="#534AB7"/>
+<text x="56" y="268" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold"  fill="#3C3489">4. Driver breakdown</text>
+<rect x="232" y="246" width="528" height="44" rx="8" fill="#FFFFFF" stroke="#D3D1C7"/>
+<text x="248" y="268" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#2C2C2A">Nearly all of the drop is in the app: 7.7% to 4.7%</text>
+<line x1="130" y1="291" x2="130" y2="298" stroke="#73726c" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="40" y="300" width="180" height="44" rx="8" fill="#EEEDFE" stroke="#534AB7"/>
+<text x="56" y="322" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold"  fill="#3C3489">5. Anomaly detector</text>
+<rect x="232" y="300" width="528" height="44" rx="8" fill="#FFFFFF" stroke="#D3D1C7"/>
+<text x="248" y="322" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#2C2C2A">Significant break on Sep 9, same day the app moved the offer</text>
+<line x1="130" y1="345" x2="130" y2="352" stroke="#73726c" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="40" y="354" width="180" height="44" rx="8" fill="#EEEDFE" stroke="#534AB7"/>
+<text x="56" y="376" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold"  fill="#3C3489">6. Peer benchmark</text>
+<rect x="232" y="354" width="528" height="44" rx="8" fill="#FFFFFF" stroke="#D3D1C7"/>
+<text x="248" y="376" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#2C2C2A">Median 4.4% for 5 after-payment peers vs. 7.2% for 6 before</text>
+<line x1="130" y1="399" x2="130" y2="406" stroke="#73726c" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="40" y="408" width="180" height="44" rx="8" fill="#FAECE7" stroke="#993C1D"/>
+<text x="56" y="430" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold"  fill="#712B13">7. Verifier</text>
+<rect x="232" y="408" width="528" height="44" rx="8" fill="#FFFFFF" stroke="#D3D1C7"/>
+<text x="248" y="430" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#2C2C2A">Numbers match · peers OK · where: high, why: medium</text>
+<line x1="130" y1="453" x2="130" y2="460" stroke="#73726c" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="40" y="462" width="180" height="44" rx="8" fill="#F1EFE8" stroke="#5F5E5A"/>
+<text x="56" y="484" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold"  fill="#2C2C2A">8. Answer + review</text>
+<rect x="232" y="462" width="528" height="44" rx="8" fill="#FFFFFF" stroke="#D3D1C7"/>
+<text x="248" y="484" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#2C2C2A">Suggests a 50% test for 2 weeks; routed to human review</text>
+<line x1="130" y1="507" x2="130" y2="514" stroke="#73726c" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="40" y="516" width="180" height="44" rx="8" fill="#F1EFE8" stroke="#5F5E5A"/>
+<text x="56" y="538" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13" font-weight="bold"  fill="#2C2C2A">9. Close the loop</text>
+<rect x="232" y="516" width="528" height="44" rx="8" fill="#FFFFFF" stroke="#D3D1C7"/>
+<text x="248" y="538" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#2C2C2A">Test result is tracked; counts as an insight acted on</text>
+<rect x="40" y="586" width="720" height="100" rx="12" fill="#FAECE7" stroke="#993C1D" stroke-width="1"/>
+<text x="60" y="612" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold"  fill="#712B13">Why an agent beats a dashboard</text>
+<text x="60" y="638" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13"   fill="#993C1D">A 1.4-point drop on ~414,000 bookings ≈ 5,800 fewer policies a month.</text>
+<text x="60" y="662" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13"   fill="#993C1D">Monitoring alerts on Sep 12 (7.4% to 5.5%), not when the partner asks on Oct 6.</text>
+</svg>

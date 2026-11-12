@@ -1,0 +1,94 @@
+[
+  {
+    "story": 1,
+    "scope": "partner",
+    "id": "p01",
+    "alert": "step",
+    "direction": "down",
+    "cause": "placement",
+    "explain": "App only; offer moved after payment on Sep 9"
+  },
+  {
+    "story": 2,
+    "scope": "partner",
+    "id": "p02",
+    "alert": "step",
+    "direction": "down",
+    "cause": "price",
+    "explain": "Price rose from $15 to $22: fewer policies, more premium each"
+  },
+  {
+    "story": 3,
+    "scope": "partner",
+    "id": "p08",
+    "alert": "step",
+    "direction": "up",
+    "cause": "checkout",
+    "explain": "Checkout redesign lifted attach rate"
+  },
+  {
+    "story": 4,
+    "scope": "market",
+    "id": "travel:AE",
+    "alert": "market",
+    "direction": "down",
+    "partners": [
+      "p03",
+      "p04",
+      "p06"
+    ],
+    "explain": "Several travel partners dip in one market from Sep 22"
+  },
+  {
+    "story": 5,
+    "scope": "partner",
+    "id": "p05",
+    "alert": null,
+    "explain": "Seasonal only: no alert"
+  },
+  {
+    "story": 6,
+    "scope": "partner",
+    "id": "p11",
+    "alert": null,
+    "explain": "Noise on small volume: no alert"
+  },
+  {
+    "story": 7,
+    "scope": "partner",
+    "id": "p07",
+    "alert": "drift",
+    "direction": "down",
+    "explain": "Gradual decline, no single break"
+  },
+  {
+    "story": 8,
+    "scope": "partner",
+    "id": "p09",
+    "alert": "mix",
+    "direction": "down",
+    "explain": "Traffic shifted to the app; each device converts as before"
+  },
+  {
+    "story": 9,
+    "scope": "claims",
+    "id": "p06:ES:flight_delay",
+    "alert": "claims",
+    "direction": "up",
+    "explain": "Delay claims rising; recent weeks look low only because of claims lag"
+  },
+  {
+    "story": null,
+    "scope": "partner",
+    "id": "p10",
+    "alert": null,
+    "explain": "Steady"
+  },
+  {
+    "story": null,
+    "scope": "partner",
+    "id": "p12",
+    "alert": null,
+    "explain": "Steady"
+  }
+]

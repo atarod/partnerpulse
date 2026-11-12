@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560">
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M2 1L8 5L2 9" fill="none" stroke="#73726c" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect width="800" height="560" fill="#FFFFFF"/>
+<text x="40" y="36" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="19" font-weight="bold"  fill="#2C2C2A">Ecosystem: where PartnerPulse fits</text>
+<rect x="280" y="60" width="240" height="60" rx="8" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="1"/>
+<text x="400.0" y="81.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold"  fill="#2C2C2A">Insurers</text>
+<text x="400.0" y="102.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#5F5E5A">Carry the risk</text>
+<line x1="400" y1="121" x2="400" y2="143" stroke="#73726c" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="40" y="146" width="720" height="140" rx="12" fill="none" stroke="#888780" stroke-width="1" stroke-dasharray="5 5"/>
+<text x="60" y="170" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold"  fill="#2C2C2A">Tidewell Protect platform (fictional)</text>
+<rect x="60" y="192" width="210" height="62" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="1"/>
+<text x="165.0" y="214.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold"  fill="#3C3489">Checkout API</text>
+<text x="165.0" y="235.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#534AB7">Sells protection</text>
+<rect x="295" y="192" width="210" height="62" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="1"/>
+<text x="400.0" y="214.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold"  fill="#3C3489">Pricing engine</text>
+<text x="400.0" y="235.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#534AB7">Prices and bundles</text>
+<rect x="530" y="192" width="210" height="62" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="1"/>
+<text x="635.0" y="214.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold"  fill="#3C3489">Claims service</text>
+<text x="635.0" y="235.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#534AB7">Pays claims fast</text>
+<line x1="180" y1="287" x2="180" y2="316" stroke="#73726c" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="60" y="320" width="240" height="62" rx="8" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="1"/>
+<text x="180.0" y="342.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold"  fill="#2C2C2A">Partner</text>
+<text x="180.0" y="363.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#5F5E5A">Airline, marketplace, fintech</text>
+<line x1="180" y1="383" x2="180" y2="426" stroke="#73726c" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="60" y="430" width="240" height="62" rx="8" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="1"/>
+<text x="180.0" y="452.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold"  fill="#2C2C2A">End customer</text>
+<text x="180.0" y="473.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#5F5E5A">Adds protection</text>
+<line x1="301" y1="461" x2="496" y2="461" stroke="#73726c" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="400" y="448" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#5F5E5A">sales and claims</text>
+<rect x="500" y="430" width="240" height="62" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="1"/>
+<text x="620.0" y="452.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold"  fill="#712B13">Portfolio data</text>
+<text x="620.0" y="473.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#993C1D">Across all partners</text>
+<line x1="620" y1="429" x2="620" y2="386" stroke="#73726c" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="500" y="320" width="240" height="62" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="1"/>
+<text x="620.0" y="342.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="15" font-weight="bold"  fill="#712B13">PartnerPulse</text>
+<text x="620.0" y="363.0" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#993C1D">Agentic insights</text>
+<line x1="499" y1="351" x2="304" y2="351" stroke="#73726c" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="400" y="338" text-anchor="middle" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="12.5"   fill="#5F5E5A">decisions</text>
+<rect x="60" y="522" width="16" height="16" rx="3" fill="#EEEDFE" stroke="#534AB7"/>
+<text x="84" y="530" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13"   fill="#444441">Platform</text>
+<rect x="250" y="522" width="16" height="16" rx="3" fill="#FAECE7" stroke="#993C1D"/>
+<text x="274" y="530" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13"   fill="#444441">PartnerPulse scope</text>
+<rect x="480" y="522" width="16" height="16" rx="3" fill="#F1EFE8" stroke="#5F5E5A"/>
+<text x="504" y="530" text-anchor="start" dominant-baseline="central" font-family="Helvetica, Arial, DejaVu Sans, sans-serif" font-size="13"   fill="#444441">External parties</text>
+</svg>

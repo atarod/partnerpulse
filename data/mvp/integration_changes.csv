@@ -1,0 +1,4 @@
+date,partner_id,device,change,change_type
+2026-09-09,p01,app,Offer moved from before to after payment,placement
+2026-08-20,p02,all,Protection price changed from $15 to $22,price
+2026-09-15,p08,all,Checkout redesign released,checkout

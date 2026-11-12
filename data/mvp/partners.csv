@@ -1,0 +1,13 @@
+partner_id,name,vertical,size,account_manager,base_rate
+p01,SkyBridge Air,travel,large,Maya,0.074
+p02,Nordlys Travel,travel,medium,Maya,0.08
+p03,Atlas Journeys,travel,medium,Maya,0.07
+p04,Meridian Fly,travel,medium,Maya,0.066
+p05,Sunwise Holidays,travel,medium,Leo,0.072
+p06,Costa Verde Trips,travel,medium,Leo,0.068
+p07,Harbor Rail,travel,medium,Leo,0.075
+p08,Cartwell,ecommerce,large,Leo,0.05
+p09,Bramble Market,ecommerce,medium,Sara,0.06
+p10,Kettle & Co,ecommerce,medium,Sara,0.055
+p11,PocketPay,fintech,small,Sara,0.03
+p12,Ledgerly,fintech,medium,Sara,0.035
